@@ -7,7 +7,8 @@
 #choose your api:
 https://products.wolframalpha.com/api/
 
-                 https://www.wolframalpha.com/
+Wolframalpha Site:
+https://www.wolframalpha.com/
 
 ***Import PIP***
 
