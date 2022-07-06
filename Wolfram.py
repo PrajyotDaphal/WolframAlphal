@@ -3,7 +3,7 @@ from speak import *
 
 def wolfram(query):
 
-    api_key = "XY8VJ7-GP8P4KG7QU"
+    api_key = " YourApiID "
 
     requester = wolframalpha.client(api_key)
 
