@@ -15,6 +15,6 @@ def wolfram(query):
         return Answer
 
     except:
-        speak("An String Value is Not Answerable")
+        Say("An String Value is Not Answerable")
 
 wolfram()
